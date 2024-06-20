@@ -1,0 +1,17 @@
+rabbit mq (choco)
+chocolatey
+docker
+node
+nest
+react
+react
+react
+react
+react
+react
+react
+react
+react
+react
+react
+react
